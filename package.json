@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is my first react project.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh-bharwani/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Harsh Bharwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harsh-bharwani/React/issues"
+  },
+  "homepage": "https://github.com/Harsh-bharwani/React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
