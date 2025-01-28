@@ -2,9 +2,10 @@
   "name": "react",
   "version": "1.0.0",
   "description": "This is my first react project.",
-  "main": "App.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,15 @@
   },
   "homepage": "https://github.com/Harsh-bharwani/React#readme",
   "devDependencies": {
-    "parcel": "^2.13.3"
-  }
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browsersList": [
+   "Last 10 versions"
+  ]
 }
+ 

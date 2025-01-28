@@ -1,1 +1,5 @@
 /node_modules
+/dist
+/.parcel-cache  
+
+# We can built it again, that's why we won;t be keeping it in github, because we would fetch these folders directly from the servers in github  
